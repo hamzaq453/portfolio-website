@@ -21,7 +21,7 @@ const projectsData = [
     description: "Personal Portfolio Website with Nextjs",
     image: "/images/projects/P7.png",
     tag: ["All", "Web","Mobile"],
-    previewUrl: "https://hamzaqureshi-one.vercel.app/",
+    previewUrl: "https://hamzaqureshi-one.vercel.app",
   },
   {
     id: 3,
