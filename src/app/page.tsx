@@ -1,14 +1,23 @@
 import Image from 'next/image'
 import Herosec from "@/app/components/Herosec"
+import Navbar from '@/app/components/Navbar'
+import AboutSection from '@/app/components/AboutSection'
+import ProjectsSection from '@/app/components/ProjectsSection'
+import EmailSection from '@/app/components/EmailSection'
+import Footer from '@/app/components/Footer'
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col bg-[#121212] mx-auto py-4 px-12">
-          <div className='container mx-auto py-4 px-12'>
-       <Herosec/>
-       </div>
-
-
-    </main>
+  
+    <main className="flex min-h-screen flex-col bg-[#121212]">
+      <Navbar />
+      <div className="container mt-24 lg:mt-8 mx-auto px-12 py-4">
+        <Herosec />
+        <AboutSection/>
+        <ProjectsSection/>
+        <EmailSection/>
+        </div>
+        <Footer/>
+      </main>
   )
 }
