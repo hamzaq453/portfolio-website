@@ -11,7 +11,7 @@ export async function POST(req:any , res:any) {
   try {
     if (fromEmail) {
       const data = await resend.emails.send({
-        from: 'Awais <onboarding@resend.dev>',
+        from: 'Hamza  <onboarding@resend.dev>',
         to: [fromEmail , email] , // Replace with a valid recipient email
         subject: 'Hi Friend',
         react: <>
