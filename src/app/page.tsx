@@ -3,7 +3,7 @@ import Herosec from "@/app/components/Herosec"
 import Navbar from '@/app/components/Navbar'
 import AboutSection from '@/app/components/AboutSection'
 import ProjectsSection from '@/app/components/ProjectsSection'
-import EmailSection from '@/app/components/EmailSection'
+import Contact from '@/app/components/Contact'
 import Footer from '@/app/components/Footer'
 
 export default function Home() {
@@ -15,7 +15,7 @@ export default function Home() {
         <Herosec />
         <AboutSection/>
         <ProjectsSection/>
-        <EmailSection/>
+        <Contact/>
         </div>
         <Footer/>
       </main>
