@@ -23,8 +23,9 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2 -mt-8">
+        <li>Bachelors of Science in Computer Science (BSCS) From Virtual University of Pakistan
+        </li>
         <li>Pakistan Institute of Artificial Intelligence and Computing</li>
-        <li>Virtual University (BS.CS)</li>
       </ul>
     ),
   },
