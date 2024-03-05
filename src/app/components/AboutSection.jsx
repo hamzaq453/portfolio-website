@@ -12,9 +12,9 @@ const TAB_DATA = [
       <ul className="list-disc pl-2 -mt-8">
         <li>Next.js</li>
         <li>React</li>
-        <li>JavaScript</li>
-        <li>TailwindCss</li>
-        <li>Git</li>
+        <li>Typescript</li>
+        <li>Tailwind Css</li>
+        <li>Sanity.io</li>
       </ul>
     ),
   },
