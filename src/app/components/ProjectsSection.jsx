@@ -17,11 +17,11 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Personal Portfolio Website",
-    description: "Personal Portfolio Website with Nextjs",
+    title: "Ecommerce Website with Sanity.io",
+    description: "E-commerce Website built with Nextjs using Sanity and Shadcn Ui",
     image: "/images/projects/P7.png",
     tag: ["All", "Web","Mobile"],
-    previewUrl: "https://hamzaqureshi-one.vercel.app",
+    previewUrl: "https://ecommerce-website-using-sanity.vercel.app",
   },
   {
     id: 3,
