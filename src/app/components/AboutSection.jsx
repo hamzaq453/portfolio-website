@@ -24,10 +24,10 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2 -mt-8">
         <li><strong>Bachelors of Science in Computer Science (BSCS)</strong> <br/> 
-            From Virtual University of Pakistan
+            From Virtual University of Pakistan (VU)
         </li>
         <li className="mt-4"><strong>Web 3.0 and Metaverse Developer</strong> <br />
-            From Pakistan Institute of Artificial Intelligence and Computing</li>
+            From Pakistan Institute of Artificial Intelligence and Computing (PIAIC)</li>
       </ul>
     ),
   },
