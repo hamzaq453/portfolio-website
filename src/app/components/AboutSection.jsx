@@ -60,7 +60,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I am a Web 3.0 developer specializing in Next.js, React, JavaScript, Tailwind CSS, Sanity.io and Git.
+          I am a Web Developer specializing in Next.js, React, JavaScript, Tailwind CSS, Sanity.io and Git.
            Passionate about leveraging cutting-edge technologies to build modern and dynamic web applications.
           </p>
           <div className="flex flex-row justify-start mt-8">
