@@ -14,7 +14,9 @@ const TAB_DATA = [
         <li>React</li>
         <li>Typescript</li>
         <li>Tailwind Css</li>
-        <li>Sanity.io</li>
+        <li>Database</li>
+        <li>APIs</li>
+        <li>Github</li>
       </ul>
     ),
   },
@@ -24,10 +26,10 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2 -mt-8">
         <li><strong>Bachelors of Science in Computer Science (BSCS)</strong> <br/> 
-            From Virtual University of Pakistan (VU)
+            Virtual University of Pakistan (VU)
         </li>
-        <li className="mt-4"><strong>Web 3.0 and Metaverse Developer</strong> <br />
-            From Pakistan Institute of Artificial Intelligence and Computing (PIAIC)</li>
+        <li className="mt-4"><strong>Fsc Pre-Engineering</strong> <br />
+            Kips College</li>
       </ul>
     ),
   },
@@ -36,7 +38,8 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2 -mt-8">
-        <li>PIAIC WEB 3.0 DEVELOPER</li>
+        <li><strong>WEB DEVELOPER</strong></li>
+        <h2 className="mt-2">Presidential Institute of Artificial Intelligence and Computing <br />(PIAIC)</h2>
         {/* <li></li> */}
       </ul>
     ),
@@ -60,8 +63,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I am a Web Developer specializing in Next.js, React, JavaScript, Tailwind CSS, Sanity.io and Git.
-           Passionate about leveraging cutting-edge technologies to build modern and dynamic web applications.
+          Full Stack Developer with 1 year of experience in web development, skilled in Next.js, React, Node.js, and Tailwind CSS. Dedicated to delivering user-centric solutions and managing projects efficiently. Strong collaboration and customer relations abilities.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
