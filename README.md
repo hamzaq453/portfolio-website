@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hamza Qureshi
+### AI Engineer | Full Stack Developer | Autonomous Systems Developer
 
-## Getting Started
+## 👋 About Me
+I'm a passionate AI Engineer and Full Stack Developer specializing in building intelligent systems and autonomous agents. With expertise in LangChain, LangGraph, and modern web technologies, I create cutting-edge AI solutions that bridge the gap between advanced AI capabilities and practical applications.
 
-First, run the development server:
+## 🚀 Expertise
+- 🤖 **AI Development**: Building autonomous agents, intelligent systems, and advanced chatbots
+- 🧠 **LLM Engineering**: Developing with LangChain, LangGraph, and various Large Language Models
+- 💻 **Full Stack**: Creating seamless web applications with Next.js, React, and FastAPI
+- 🔄 **DevOps**: Containerization with Docker and efficient deployment workflows
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/-LangChain-white?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/-LangGraph-blue?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Frontend Development
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Backend & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Learn More
+## 🎓 Education & Certifications
+- **BSc Computer Science** - Virtual University of Pakistan
+- **AI Engineering** - Presidential Institute of Artificial Intelligence and Computing (PIAIC)
+- **Agentic AI Developer** - PIAIC
+- **Full Stack Development** - PIAIC
 
-To learn more about Next.js, take a look at the following resources:
+## 🌟 Featured Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### AI Agent Framework
+- Built autonomous AI agents using LangChain and LangGraph
+- Implemented complex decision-making capabilities
+- Integrated with various LLM providers
+- Tech: Python, LangChain, FastAPI
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Intelligent Chatbot Platform
+- Developed an advanced chatbot system with context awareness
+- Implemented real-time response generation
+- Integrated with multiple data sources
+- Tech: Next.js, Python, LangChain
 
-## Deploy on Vercel
+### Full Stack AI Dashboard
+- Created a comprehensive dashboard for AI system monitoring
+- Implemented real-time data visualization
+- Built secure API endpoints
+- Tech: React, FastAPI, Docker
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/hamza-qureshi-21b61a249/)
+- [GitHub](https://github.com/hamzaq453)
+- [Portfolio](https://hamzaqureshi-one.vercel.app/)
+- Email: hamzaqureshi2000@gmail.com
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+---
+⭐️ From [YourUsername](https://github.com/hamzaq453)

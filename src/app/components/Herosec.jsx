@@ -4,7 +4,7 @@ import Image from "next/image";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import Link from "next/link";
-import H1 from '/public/H1.png'
+import Profile from '/public/Profile.jpg'
 
 const HeroSection = () => {
   return (
@@ -25,11 +25,12 @@ const HeroSection = () => {
               sequence={[
                 "Hamza Qureshi",
                 1000,
-                "Web Developer",
+                "AI Engineer",
                 1000,
-                "Next.js Developer",
+                "Full Stack Developer",
+                1000,
+                "LangChain Expert",
                 1000
-            
               ]}
               wrapper="span"
               speed={50}
@@ -37,7 +38,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Explore my latest projects and articles, showcasing my expertise in Next.js and web development.
+            Specialized in building AI-powered applications, intelligent agents, and advanced chatbots. 
+            Experienced in LangChain, LangGraph, and full-stack development to create cutting-edge AI solutions.
           </p>
           <div>
             <Link
@@ -65,11 +67,15 @@ const HeroSection = () => {
         >
           <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[300px] lg:h-[300px] relative">
             <Image
-              src={H1}
+              src={Profile}
               alt="hero image"
-              className=" absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              className="rounded-full object-cover"
               width={300}
               height={300}
+              style={{
+                width: '100%',
+                height: '100%'
+              }}
             />
           </div>
         </motion.div>

@@ -10,13 +10,27 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2 -mt-8">
-        <li>Next.js</li>
-        <li>React</li>
-        <li>Typescript</li>
-        <li>Tailwind Css</li>
-        <li>Database</li>
-        <li>APIs</li>
-        <li>Github</li>
+        <li>AI & ML Technologies</li>
+        <ul className="list-circle pl-4 mb-2">
+          <li>LangChain & LangGraph</li>
+          <li>AI Agents & Autonomous Systems</li>
+          <li>Large Language Models (LLMs)</li>
+          <li>Chatbot Development</li>
+        </ul>
+        <li>Backend Development</li>
+        <ul className="list-circle pl-4 mb-2">
+          <li>FastAPI & Python</li>
+          <li>RESTful APIs</li>
+          <li>Docker & Containerization</li>
+          <li>Database Design (SQL/NoSQL)</li>
+        </ul>
+        <li>Frontend Development</li>
+        <ul className="list-circle pl-4">
+          <li>Next.js</li>
+          <li>React</li>
+          <li>Framer Motion</li>
+          <li>Tailwind CSS</li>
+        </ul>
       </ul>
     ),
   },
@@ -26,10 +40,10 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2 -mt-8">
         <li><strong>Bachelors of Science in Computer Science (BSCS)</strong> <br/> 
-            Virtual University of Pakistan (VU)
+            Virtual University of Pakistan <br />(VU)
         </li>
-        <li className="mt-4"><strong>Fsc Pre-Engineering</strong> <br />
-            Kips College</li>
+        <li className="mt-4"><strong>Agentic AI Developer</strong> <br />
+        Presidential Institute of Artificial Intelligence and Computing (PIAIC)</li>
       </ul>
     ),
   },
@@ -38,9 +52,10 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2 -mt-8">
-        <li><strong>WEB DEVELOPER</strong></li>
-        <h2 className="mt-2">Presidential Institute of Artificial Intelligence and Computing <br />(PIAIC)</h2>
-        {/* <li></li> */}
+        <li><strong>AI Engineering</strong></li>
+        <h2 className="mt-2">Presidential Institute of Artificial Intelligence and Computing (PIAIC)</h2>
+        <li className="mt-4"><strong>Full Stack Development</strong></li>
+        <h2 className="mt-2">Presidential Institute of Artificial Intelligence and Computing (PIAIC)</h2>
       </ul>
     ),
   },
@@ -63,7 +78,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          Full Stack Developer with 1 year of experience in web development, skilled in Next.js, React, Node.js, and Tailwind CSS. Dedicated to delivering user-centric solutions and managing projects efficiently. Strong collaboration and customer relations abilities.
+            AI Engineer and Full Stack Developer with expertise in building intelligent systems and web applications. 
+            Specialized in developing AI agents, autonomous systems, and chatbots using LangChain and LangGraph. 
+            Proficient in modern web technologies and committed to creating innovative AI-powered solutions that deliver real business value.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
